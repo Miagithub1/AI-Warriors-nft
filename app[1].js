@@ -11,3 +11,24 @@ filter.onchange=()=>{shown=12;render()}; search.oninput=()=>{shown=12;render()};
 document.getElementById("mintBtn").href=MINT_URL||"#"; document.getElementById("navMint").href=MINT_URL||"#"; document.getElementById("heroMint").href=MINT_URL||"#";
 document.getElementById("xLink").href=SITE_LINKS.x||"#";document.getElementById("discordLink").href=SITE_LINKS.discord||"#";document.getElementById("openseaLink").href=SITE_LINKS.opensea||"#";
 render();
+const whitelistForm=document.getElementById("whitelistForm");
+if(whitelistForm){
+  whitelistForm.addEventListener("submit",async(e)=>{
+    e.preventDefault();
+    const twitter=document.getElementById("twitter").value.trim().replace(/^@+/,"");
+    const wallet=document.getElementById("wallet").value.trim();
+    const status=document.getElementById("wlStatus");
+    const evm=/^0x[a-fA-F0-9]{40}$/;
+    const tw=/^[A-Za-z0-9_]{1,15}$/;
+    if(!tw.test(twitter)){status.textContent="Please enter a valid Twitter/X username.";return;}
+    if(!evm.test(wallet)){status.textContent="Please enter a valid 42-character EVM address starting with 0x.";return;}
+    // Demo-safe storage: keeps the entry on this device until a backend/webhook is configured.
+    const entries=JSON.parse(localStorage.getItem("aethelgard_whitelist")||"[]");
+    if(entries.some(x=>x.wallet.toLowerCase()===wallet.toLowerCase())){status.textContent="This wallet has already been submitted on this device.";return;}
+    entries.push({twitter:"@"+twitter,wallet,submittedAt:new Date().toISOString()});
+    localStorage.setItem("aethelgard_whitelist",JSON.stringify(entries));
+    status.textContent="Whitelist submitted successfully ✓";
+    whitelistForm.classList.add("success");
+    whitelistForm.reset();
+  });
+}
