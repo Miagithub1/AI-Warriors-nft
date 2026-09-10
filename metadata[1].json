@@ -1,0 +1,770 @@
+[
+  {
+    "name": "AI Warrior #0001",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/1.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "RARE"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Cyber Blue"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Titan"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Aegis"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0002",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/2.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Crimson"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0003",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/3.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "EPIC"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Crystal"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Cyber"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0004",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/4.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "LEGENDARY"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Ronin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0005",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/5.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "RARE"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Void"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Samurai"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0006",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/6.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "RARE"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Sentinel"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0007",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/7.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "EPIC"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Cyber Blue"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Titan"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Aegis"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0008",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/8.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "RARE"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Crimson"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0009",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/9.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "RARE"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Crystal"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Cyber"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0010",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/10.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "EPIC"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Ronin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0011",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/11.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Void"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Samurai"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0012",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/12.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "RARE"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Sentinel"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0013",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/13.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "LEGENDARY"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Cyber Blue"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Titan"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Aegis"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0014",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/14.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Crimson"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0015",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/15.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Crystal"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Cyber"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0016",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/16.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Ronin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0017",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/17.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "LEGENDARY"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Void"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Samurai"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0018",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/18.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Sentinel"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0019",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/19.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "EPIC"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Cyber Blue"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Titan"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Aegis"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0020",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/20.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Crimson"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0021",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/21.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Crystal"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Cyber"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0022",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/22.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Ronin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0023",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/23.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "COMMON"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Void"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Samurai"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Quantum Spear"
+      }
+    ]
+  },
+  {
+    "name": "AI Warrior #0024",
+    "description": "AI Warriors \u2014 a futuristic 10,000-piece warrior collection.",
+    "image": "ipfs://YOUR_IMAGE_CID/24.png",
+    "external_url": "https://ai-warriors-nft.vercel.app/",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "EPIC"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Midnight"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Steel"
+      },
+      {
+        "trait_type": "Helmet",
+        "value": "Sentinel"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Blade"
+      }
+    ]
+  }
+]
