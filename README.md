@@ -1,6 +1,5 @@
-# AI Warriors NFT Demo
-Open index.html to view the demo.
-
-Included: responsive landing page, mint UI, MetaMask connection, collection filters, sample metadata and ERC-721 contract.
-
-Production: upload images/metadata to IPFS, test and audit the contract, deploy it, then connect the deployed address + ABI to the frontend before accepting real funds.
+# AI Warriors Premium V2
+Upload these files to your GitHub repo and deploy with Vercel.
+Before launch: upload final artwork/metadata to IPFS, create the official NFT drop, then put its mint URL into `app.js` as `MINT_URL`.
+Replace the placeholder social links and warrior visuals with your final assets.
+This is a frontend redesign and does not contain a fake blockchain mint function.
