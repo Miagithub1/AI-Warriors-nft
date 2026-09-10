@@ -1,0 +1,24 @@
+{
+  "name": "AI Warrior #0008",
+  "description": "AI Warriors demo NFT collection.",
+  "image": "ipfs://YOUR_IMAGE_CID/8.png",
+  "external_url": "https://your-domain.example/nft/8",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Diamond Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
